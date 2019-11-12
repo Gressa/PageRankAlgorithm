@@ -1,0 +1,7 @@
+<http://commons.dbpedia.org/resource/W1> <http://commons.dbpedia.org/property/hasUrl> "Prishtina".
+<http://commons.dbpedia.org/resource/W1> <http://commons.dbpedia.org/property/hasOutLink> <http://commons.dbpedia.org/resource/W2>.
+<http://commons.dbpedia.org/resource/W1> <http://commons.dbpedia.org/property/hasOutLink> <http://commons.dbpedia.org/resource/W3>.
+<http://commons.dbpedia.org/resource/W2> <http://commons.dbpedia.org/property/hasTitle> "Kosova".
+<http://commons.dbpedia.org/resource/W2> <http://commons.dbpedia.org/property/hasOutLink> <http://commons.dbpedia.org/resource/W3>.
+<http://commons.dbpedia.org/resource/W3> <http://commons.dbpedia.org/property/hasTitle> "Rajoni i Prishtines".
+<http://commons.dbpedia.org/resource/W3> <http://commons.dbpedia.org/property/hasOutLink> <http://commons.dbpedia.org/resource/W1>.
